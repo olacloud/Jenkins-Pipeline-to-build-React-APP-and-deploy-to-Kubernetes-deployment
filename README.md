@@ -1,4 +1,4 @@
-Jenkins CI/CD Pipeline to build a React APP and deploy to a Kubernetes deployment
+# Jenkins CI/CD Pipeline to build a React APP and deploy to a Kubernetes deployment.
 Jenkins CI/CD Pipeline to orchestrate building a React application with the Node Package Manager (npm) and deploy it to a Kubernetes deployment.
 
 We will
